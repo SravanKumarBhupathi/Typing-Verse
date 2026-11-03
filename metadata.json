@@ -1,0 +1,6 @@
+{
+  "name": "TYPEVERSE",
+  "description": "Next-generation typing academy, competitive esports platform, and multiplayer arcade gaming ecosystem where real typing speed and accuracy power gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
